@@ -1,7 +1,7 @@
 ---
 title: "The Whole Team approach to Testing in Continous Delivery"
 excerpt: "How to test faster while pusing towards a more automated environment of continous delivery?"
-tags: [Teams, Continous Delivery, CAST, AST]
+tags: [Teams, Continous Delivery, CAST, AST, Conferences]
 comments: true
 ---
 <i>{{ page.excerpt }}</i>

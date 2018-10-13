@@ -1,7 +1,7 @@
 ---
 title: "Definition of Ready"
 excerpt: "After some discussion on DoD, we want to talk a little about what it means for a story to be Ready"
-tags: [Quality Questions, Definition of Ready]
+tags: [Quality Questions, Definition of Ready, DoR]
 comments: true
 category:
     - Questions

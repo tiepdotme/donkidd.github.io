@@ -2,7 +2,7 @@
 title: "About me"
 excerpt: "Why should you listen to me"
 sitemap: true
-permalink: /About
+permalink: /About/
 layout: default
 ---
 

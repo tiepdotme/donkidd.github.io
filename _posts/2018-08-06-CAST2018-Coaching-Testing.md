@@ -1,7 +1,7 @@
 ---
 title: "Coaching Testing"
 excerpt: "What does it look like to be a coach of testing"
-tags: [Teams, Coaching, CAST, AST]
+tags: [Teams, Coaching, CAST, AST, Conferences]
 comments: true
 ---
 <i>{{ page.excerpt }}</i>

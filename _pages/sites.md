@@ -3,6 +3,7 @@ title: "Sites"
 excerpt: "Sites I'm following"
 sitemap: true
 permalink: /Sites/
+
 layout: default
 ---
 ## Testing Sites

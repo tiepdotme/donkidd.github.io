@@ -1,7 +1,10 @@
 ---
-title: "QA or the Highway 2018"
+title: "QA or the Highway - 2018"
 excerpt: "All highways do lead to Columbus, OH"
-tags: [QA Job, QAOTH, Conferences]
+tags:
+    -   QA Job
+    -   QAOTH
+    -   Conferences
 comments: true
 ---
 <i>{{ page.excerpt }}</i>
@@ -62,4 +65,4 @@ A lot of this is about test data, and how to go about managing that test data.  
 
 His slide deck is available on [slideshare](https://www.slideshare.net/qaoth/behavior-driven-developmenta-guide-to-agile-practices-by-josh-eastman)
 
-As I work with teams to begin doing more BDD style development the info that Josh shared here will be useful as I explain what is going on.  
+As I work with teams to begin doing more BDD style development the info that Josh shared here will be useful as I explain what is going on.

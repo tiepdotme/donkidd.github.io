@@ -1,7 +1,7 @@
 ---
 title: "The Start of a new position"
 excerpt: "What did I get myself into"
-tags: QA Job
+tags: [QA Job]
 comments: true
 ---
 <i>{{ page.excerpt }}</i>
